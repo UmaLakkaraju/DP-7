@@ -1,3 +1,5 @@
+
+//TC(M*N)- SC(M*N)
 public class RegularExpressionMatchStarDot {
 
     public boolean isMatch(String s, String p) {
